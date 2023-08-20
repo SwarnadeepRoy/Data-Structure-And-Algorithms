@@ -1,2 +1,2 @@
 # Data-Structure-And-Algorithms
- DSA using C++
+ Striver A to Z DSA using C++
